@@ -1,0 +1,28 @@
+{
+  "name": "random-messages-lehr",
+  "version": "1.0.1",
+  "description": "Whenever I start a new project",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Luis Henao <luis.henao@awscolombia.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhenao12/npm-random-lehr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lhenao12/npm-random-lehr/issues"
+  },
+  "homepage": "https://github.com/lhenao12/npm-random-lehr#readme"
+}
